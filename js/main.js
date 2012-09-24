@@ -14,3 +14,10 @@ $(document).ready(function(){
 	// 	$("img").width(200);
 	// });
 });
+
+// workflow
+// git add .
+// git commit -m "message"
+
+// other useful git commands:
+// git log
